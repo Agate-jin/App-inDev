@@ -1,0 +1,7 @@
+{
+  "name": "ThumbAI Editor",
+  "description": "A high-end YouTube thumbnail creator powered by Gemini AI. Upload your photos and use AI to replace backgrounds, add cinematic effects, and generate eye-catching thumbnails in 16:9 aspect ratio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
